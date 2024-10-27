@@ -1,0 +1,19 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #f0f0f0;
+}
+
+h2 {
+  color: #333;
+  text-align: center;
+}
+
+ul,
+ol {
+  margin-left: 20px;
+}
+
+.alt-color {
+  background-color: rgb(185, 26, 26);
+  color: rgb(187, 255, 0);
+}
